@@ -1,5 +1,3 @@
-// NAME:  AHMED ELGHAZI
-// NETID: AXE210038
 import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
